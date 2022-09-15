@@ -10,7 +10,7 @@ void print_alphabet_x10(void)
 	char ebenezar, i;
 
 	for (i = 0; i <= 9; i++)
-       	{
+	{
 		for (ebenezar = 'a'; ebenezar <= 'z'; ebenezar++)
 		{
 			_putchar(ebenezar);

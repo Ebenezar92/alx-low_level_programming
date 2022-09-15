@@ -9,9 +9,9 @@ void print_alphabet(void)
 {
 	char Ebenezar;
 
-	for (Ebenezar = 'a'; Ebenezar <= 'z' Ebenezar++)
+	for (Ebenezar = 'a'; Ebenezar <= 'z'; Ebenezar++)
 	{
 		_putchar(Ebenezar);
 	}
-_putchar('\n')
+_putchar('\n');
 }
